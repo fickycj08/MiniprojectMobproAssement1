@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">mobpro2</string>
+
+
+    <string name="hitung">Hitung</string>
+
+    <string name="input_invalid">Tidak Boleh Kosong.</string>
+    <string name="bagikan">Bagikan</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Penghitung Pengeluaran adalah sebuah aplikasi Android yang membantu pengguna dalam mencatat dan mengelola pengeluaran keuangan mereka secara efisien.\n\nDengan fitur-fitur yang sederhana namun lengkap, pengguna dapat dengan mudah mencatat setiap transaksi pengeluaran\n\nAplikasi ini dirancang untuk memberikan kemudahan dan keteraturan dalam mengatur keuangan sehari-hari.\n\nCopyright © 2024 – 2025 Ficky chikara julivano.\nAll rights reserved.</string>
+    <string name="kembali">Kembali></string>
+    <string name="keterangan">Keterangan</string>
+    <string name="gambar">gambar</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="simpan">Simpan</string>
+    <string name="share_data">Bagikan Data</string>
+    <string name="assement1">Assement1</string>
+
+
+
+</resources>

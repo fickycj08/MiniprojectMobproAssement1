@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mobpro2</string>
+    <string name="hitung">Count</string>
+    <string name="input_invalid">Can not be empty.</string>
+    <string name="bagikan">Share</string>
+    <string name="tentang_aplikasi">About Application</string>
+    <string name="copyright">Expense Counter is an Android application that helps users record and manage their financial expenses efficiently.  With simple but complete features, users can easily record every expense transaction, categorize expenses, and view monthly reports to monitor their expenses.  This application is designed to provide convenience and order in managing daily finances.  Copyright © 2024 – 2025 Ficky chikara julivano. All rights reserved.</string>
+    <string name="kembali">Back></string>
+    <string name="pengeluaran">Spending</string>
+    <string name="simpan">Save</string>
+    <string name="share_data">Share Data</string>
+    <string name="assement1">Assement1</string>
+</resources>
