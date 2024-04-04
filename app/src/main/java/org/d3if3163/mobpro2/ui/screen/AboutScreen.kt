@@ -56,8 +56,8 @@ fun AboutScreen(navController: NavHostController) {
                 modifier = Modifier.padding(16.dp)
             )
             Image(
-                painter = painterResource(id = R.drawable.budget_4429048), // Ganti "your_image" dengan ID sumber gambar Anda
-                contentDescription = stringResource(id = R.string.gambar), // Sediakan deskripsi konten untuk aksesibilitas
+                painter = painterResource(id = R.drawable.budget_4429048),
+                contentDescription = stringResource(id = R.string.gambar),
                 modifier = Modifier.padding(vertical = 16.dp)
             )
         }

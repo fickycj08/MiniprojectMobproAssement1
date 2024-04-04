@@ -121,15 +121,12 @@ fun ScreenContent(modifier: Modifier){
                 pengeluaranError = (pengeluaran == "" || pengeluaran == "0")
                 if (pengeluaranError) return@Button
 
-                // Menyimpan data ke dalam variabel lokal
                 val newDataPengeluaran = dataPengeluaran + (pengeluaran to keterangan)
                 dataPengeluaran = newDataPengeluaran
 
-                // Mengosongkan input setelah disimpan
                 pengeluaran = ""
                 keterangan = ""
 
-                // Tampilkan pesan toast untuk konfirmasi data tersimpan
                 Toast.makeText(context, "Data tersimpan", Toast.LENGTH_SHORT).show()
             },
             modifier = Modifier.padding(top = 8.dp),
@@ -140,7 +137,6 @@ fun ScreenContent(modifier: Modifier){
 
         Button(
             onClick = {
-                // Panggil fungsi shareData di sini untuk membagikan data
                 shareData(context, formatData(dataPengeluaran))
             },
             modifier = Modifier.padding(top = 8.dp),
